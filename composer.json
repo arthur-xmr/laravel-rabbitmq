@@ -1,0 +1,25 @@
+{
+  "name": "mabangsdk/rabbitmq",
+  "description": "马帮基础组件包",
+  "authors": [
+    {
+      "name": "Arthur",
+      "email": "xumoran@mabangerp.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MabangSdk\\": "src/"
+    }
+  },
+  "require": {
+    "php-amqplib/php-amqplib": " >=3.0"
+  },
+  "repositories": [
+    {
+      "name": "mabangsdk/rabbitmq",
+      "type": "git",
+      "url": "http://git.mabangerp.com:2280/mabang/mabang_sdk.git"
+    }
+  ]
+}
