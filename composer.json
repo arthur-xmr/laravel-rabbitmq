@@ -1,10 +1,10 @@
 {
-  "name": "mabangsdk/rabbitmq",
+  "name": "laravel/rabbitmq",
   "description": "马帮基础组件包",
   "authors": [
     {
       "name": "Arthur",
-      "email": "xumoran@mabangerp.com"
+      "email": "xumoranvip@163.com"
     }
   ],
   "autoload": {
@@ -17,9 +17,9 @@
   },
   "repositories": [
     {
-      "name": "mabangsdk/rabbitmq",
+      "name": "laravel/rabbitmq",
       "type": "git",
-      "url": "http://git.mabangerp.com:2280/mabang/mabang_sdk.git"
+      "url": "https://github.com/arthur-xmr/laravel-rabbitmq.git"
     }
   ]
 }
