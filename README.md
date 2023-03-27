@@ -1,6 +1,6 @@
 ##  消息队列扩展包
 ### 安装
- composer install "mbsdk-rabbitmq:1.0.1"
+ composer install "laravel-rabbitmq:1.0.1"
 
 ### 使用说明 
 建立连接
