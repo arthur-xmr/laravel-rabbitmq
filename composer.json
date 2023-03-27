@@ -1,6 +1,6 @@
 {
   "name": "laravel/rabbitmq",
-  "description": "马帮基础组件包",
+  "description": "rabbitMq 消息 基础组件包",
   "authors": [
     {
       "name": "Arthur",
