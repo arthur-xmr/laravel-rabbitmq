@@ -1,6 +1,8 @@
 ##  消息队列扩展包
 ### 安装
- composer install "laravel-rabbitmq:1.0.1"
+ 执行 :  composer require "laravel/rabbitmq: 1.0.1"  
+若提示内存溢出 可执行 :  COMPOSER_MEMORY_LIMIT=-1 composer require "laravel/rabbitmq: 1.0.1"  
+
 
 ### 使用说明 
 建立连接
